@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for HarvestBough.
 - Industry: Agriculture, Logistics, Supply Chain Management
 - Founder: Usman Abdullahi (Founder & CEO)
 - Co-founder: Chinyere Obi (Co-founder & CTO)
-- Contact: usman@harvestbough.top
+- Contact: usman@harvestbough.space
 - Business model: Participating-farm subscriptions
 
 ## Stack
