@@ -1,0 +1,16 @@
+{
+  "name": "HarvestBough",
+  "short_name": "HarvestBough",
+  "description": "AI planning software that forecasts harvest collection capacity and transportation demand from production estimates and purchasing schedules.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f2e6",
+  "theme_color": "#f6f2e6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
